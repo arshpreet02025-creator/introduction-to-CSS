@@ -1,0 +1,39 @@
+body{
+     color: aqua;
+    background-color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.hero-name{
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(246, 148, 246);
+    text-shadow: 3px 3px rgb(246, 83, 246);
+}
+.tagline{
+    font-style: italic;
+    color: lightblue;
+    text-transform:capitalize;
+}
+.lable{
+    text-transform:uppercase;
+    text-decoration: underline;
+    color: palevioletred;
+}
+.power{
+  font-weight: bold;  
+  color: seagreen;
+}
+.weakness{
+    text-decoration: line-through;
+    color: gray;
+}
+.badge{
+   font-size: 28px;
+    font-weight: bold;
+    color: gold;
+    transform: rotate(15deg);
+}
+.Made-by{
+    color: rgb(170, 217, 246);
+    font-style: italic;
+}
